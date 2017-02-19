@@ -1,6 +1,8 @@
 # Bitcore Transactions Blessed Example
 
-Example usage of [Bitcore](https://bitcore.io/api/p2p/pool) with [blessed-contrib](https://github.com/yaronn/blessed-contrib). Sorry for the long name
+Example usage of Bitcoin lib [Bitcore](https://bitcore.io) with [blessed-contrib](https://github.com/yaronn/blessed-contrib).
+
+Show live transactions and peers connected on the pool. If you are reading this, you might want to check the [code](https://github.com/yagop/bitcore-tx-blessed/blob/master/index.js).
 
 ```bash
 npm install
